@@ -61,6 +61,7 @@ Total_bill
 - Microsoft Excel
 
 - power Query Data Cleaning and Transformation add requried columns
+- Data modeling
 - Pivot Tables & Pivot Charts
 - Slicers for Month & Day Filtering
 - Chart Customization (Column, Line, and Pie Charts)
