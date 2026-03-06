@@ -4,8 +4,7 @@
 
 [Click Here to get Dataset](https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip)
 
-![Coffee Logo](<img width="512" height="348" alt="image" src="https://github.com/user-attachments/assets/d06ee182-9927-470c-884d-de8d84c693e1" />
-)
+![Coffee Logo](https://framerusercontent.com/images/i7XqPK7BX6BmFYEbF6V2mHcnw4.png?width=1965&height=1335)
 
 ## Objectives
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
