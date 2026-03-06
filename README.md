@@ -1,18 +1,15 @@
 # Excel-Coffee-Shop-Sales
 
-# Spotify SQL Project 
 
 [Click Here to get Dataset](https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip)
 
 ![Coffee Logo](https://framerusercontent.com/images/i7XqPK7BX6BmFYEbF6V2mHcnw4.png?width=1965&height=1335)
 
+## Project Overview
+This project analyzes coffee shop sales data using Microsoft Excel to identify key business insights related to sales performance, customer behavior, and product trends. An interactive dashboard was created to track KPIs and support data-driven decision making.
+
+
 ## Objectives
-The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
-
-
-
-## Objectives
-
 - Track Total Sales, Total Footfall, and Average Bill per Person
 - Analyze sales patterns by hour and weekday
 - Identify top-performing store locations
@@ -49,23 +46,39 @@ Total_bill
 
 ## Key Insights
 
+- Total Sales: $698K+
+- Total Footfall: 149K+ customers
+- Peak Order Time: 8 AM – 10 AM
+- Highest Sales Day: Friday
+- Top Product: Barista Espresso ($91K+ revenue)
 - Peak Hours: Highest orders between 8 AM – 10 AM.
 - Top Store Location: Hell’s Kitchen generated the highest sales and footfall.
 - Best-Selling Product: Barista Espresso had the maximum revenue.
 - Popular Category: Coffee contributed to 39% of overall sales.
 -Average Bill per Person: ₹4.69
 
+
 ## Skills & Tools Used
 
 - Microsoft Excel
 
-- power Query Data Cleaning and Transformation add requried columns
+- power Query
+- Data Cleaning and Transformation add requried columns
 - Data modeling
 - Pivot Tables & Pivot Charts
 - Slicers for Month & Day Filtering
 - Chart Customization (Column, Line, and Pie Charts)
 - Data Visualization & Dashboard Design
-- KPIs Calculation using Formulas
+
+
+
+## Dashboard Features
+- KPI summary for sales, orders, and average bill
+- Hourly sales trend analysis
+- Weekday sales performance
+- Product category analysis
+- Store-level sales comparison
+- Interactive filters using slicers
 
 ## Dataset
 
